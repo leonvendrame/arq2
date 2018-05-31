@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: RA90562.aux
+The style file: sbc.bst
+Database file #1: sbc-template.bib
+Warning--can't use both volume and number fields in evers:96
+Warning--empty journal in nicacio:06
+Warning--empty journal in pedronette:06
+You've used 4 entries,
+            1935 wiz_defined-function locations,
+            493 strings with 4324 characters,
+and the built_in function-call counts, 1693 in all, are:
+= -- 155
+> -- 90
+< -- 4
++ -- 34
+- -- 32
+* -- 147
+:= -- 304
+add.period$ -- 11
+call.type$ -- 4
+change.case$ -- 35
+chr.to.int$ -- 4
+cite$ -- 7
+duplicate$ -- 63
+empty$ -- 104
+format.name$ -- 36
+if$ -- 320
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 4
+newline$ -- 21
+num.names$ -- 12
+pop$ -- 36
+preamble$ -- 1
+purify$ -- 35
+quote$ -- 0
+skip$ -- 50
+stack$ -- 0
+substring$ -- 82
+swap$ -- 9
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 24
+warning$ -- 3
+while$ -- 13
+width$ -- 0
+write$ -- 50
+(There were 3 warnings)

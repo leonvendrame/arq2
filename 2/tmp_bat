@@ -1,0 +1,1 @@
+time ./a.out 1.dat > output_large.dat

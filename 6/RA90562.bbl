@@ -1,0 +1,24 @@
+\begin{thebibliography}{}
+
+\bibitem[Binkert et~al. 2011]{gem5sim}
+Binkert, N., Beckmann, B., Black, G., Reinhardt, S.~K., Saidi, A., Basu, A.,
+  Hestness, J., Hower, D.~R., Krishna, T., Sardashti, S., et~al. (2011).
+\newblock The gem5 simulator.
+\newblock {\em ACM SIGARCH Computer Architecture News}, 39(2):1--7.
+
+\bibitem[Evers et~al. 1996]{evers:96}
+Evers, M., Chang, P.-Y., and Patt, Y.~N. (1996).
+\newblock Using hybrid branch predictors to improve branch prediction accuracy
+  in the presence of context switches.
+\newblock In {\em ACM SIGARCH Computer Architecture News}, volume~24, pages
+  1--11. ACM.
+
+\bibitem[Nicácio 2006]{nicacio:06}
+Nicácio, D. (2006).
+\newblock Previsão de desvios.
+
+\bibitem[Pedronette 2006]{pedronette:06}
+Pedronette, D. C.~G. (2006).
+\newblock Execução especulativa - conceitos gerais e técnicas.
+
+\end{thebibliography}

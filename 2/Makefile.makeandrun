@@ -1,0 +1,14 @@
+CC = gcc
+FLAGS = -O3
+RM = rm
+RUNDATA = ./__run 1
+LINKER = -lm
+LD_OPTS = -o a.out
+
+all: 
+	$(CC) -c *.c
+	$(CC) $(LD_OPTS) $(LINKER) *.o
+	$(RUNDATA)	
+
+clean:
+	$(RM) rm -f a.out *.o *.a *.s *.i *.I _finfo_dataset
