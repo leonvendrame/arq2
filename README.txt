@@ -1,4 +1,7 @@
-Discente: Leonardo Vendrame	RA: 90562
+Arquivos referentes ao primeiro trabalho da disciplina de
+Arquitetura e Organização de Computadores II.
+
+Discente: Leonardo Vendrame	                    RA: 90562
 
 Dentro das pastas de cada algoritmo existe uma pasta
 chamada origin_out que contem os stats resultantes
